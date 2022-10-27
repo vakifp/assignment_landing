@@ -219,4 +219,8 @@ background: none;
     #hero .actions a{font-size: 10px; padding: 4px 20px;}
     .navbar-light .navbar-nav .nav-link{text-align: center;}
     .social-links{text-align: center; margin-top: 25px;}
+    .card-small:hover {padding: 10px 14px 10px !important;}
+    .card-top:hover {padding: 10px 14px 10px !important;}
+    #gallery_a{padding: 10px 0px;}
+    #gallery_b{padding: 10px 0px;}
 }
